@@ -10,4 +10,12 @@ Git Assessment
 ![learn_git](https://github.com/Andreapeach6/learn_git/blob/master/Image/Step%204.PNG?raw=true)
 ## Add third.txt to the staging area.
 ![lrearn_git](https://github.com/Andreapeach6/learn_git/blob/master/Image/Step%205.PNG?raw=true)
+## Add third.txt to the staging area.
+![learn_git](https://github.com/Andreapeach6/learn_git/blob/master/Image/Step%205i.PNG?raw=true)
+## Add third.txt to the staging area.
+![learn_git](https://github.com/Andreapeach6/learn_git/blob/master/Image/Step%205ii.PNG?raw=true)
+## Commit with the message "adding third.txt".
+![learn_git](https://github.com/Andreapeach6/learn_git/blob/master/Image/Step%206.PNG?raw=true)
+## Check out your commit with git log.
+![learn_git](https://github.com/Andreapeach6/learn_git/blob/master/Image/Step%207.PNG?raw=true)
 ##
